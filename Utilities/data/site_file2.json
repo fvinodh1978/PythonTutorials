@@ -1,0 +1,56 @@
+[
+    {
+        "feed_name": "device1",
+        "status": "In Service",
+        "total_records": 100,
+        "records_inserted": 30,
+        "records_updated": 50,
+        "records_failed": 20,
+        "failure_reason": "Unique Constraint",
+        "download_link": "",
+        "table": "x_573775_sndatam_0_snow_transaction_log",
+        "comment": "Load device1 Data1"
+    },
+    {
+        "feed_name": "device1",
+        "status": "Out of Order",
+        "total_records": 100,
+        "records_inserted": 30,
+        "records_updated": 50,
+        "records_failed": 20,
+        "failure_reason": "Unique Constraint",
+        "download_link": "",
+        "table": "x_573775_sndatam_0_snow_transaction_log",
+        "comment": "Load device1 Data1"
+    },
+    {
+        "feed_name": "device1",
+        "status": "Under Maintenance",
+        "total_records": 300,
+        "records_inserted": 30,
+        "records_updated": 50,
+        "records_failed": 20,
+        "failure_reason": "Unique Constraint",
+        "download_link": "",
+        "table": "x_573775_sndatam_0_snow_transaction_log",
+        "comment": "Load device1 Data1"
+    },
+    {
+        "feed_name": "device1",
+        "status": "Under Maintenance",
+        "total_records": 100,
+        "contained": {
+            "status": "failure",
+            "contained": {
+                "status":"pass"
+            }
+        },
+        "records_inserted": 30,
+        "records_updated": 50,
+        "records_failed": 20,
+        "failure_reason": "Unique Constraint",
+        "download_link": "",
+        "table": "x_573775_sndatam_0_snow_transaction_log",
+        "comment": "Load device1 Data1"
+    }
+]

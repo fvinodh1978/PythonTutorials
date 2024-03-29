@@ -1,0 +1,14 @@
+[
+    {
+        "feed_name": "device",
+        "status": "ready1",
+        "total_records": 100,
+        "records_inserted": 30,
+        "records_updated": 50,
+        "records_failed": 20,
+        "failure_reason": "Unique Constraint",
+        "download_link": "",
+        "table": "x_573775_sndatam_0_snow_transaction_log",
+        "comment": "Load Device Data1"
+    }
+]
